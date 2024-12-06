@@ -15,7 +15,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("PracticeApp"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bdb9e0e0947e0924dc1ce5c6a69967fd04ad9c83"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4568456a0810051b9b190ae813a7e146df2aa6cb"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("PracticeApp"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("PracticeApp"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 
