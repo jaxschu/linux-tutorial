@@ -10,5 +10,9 @@ Module Program
         Console.WriteLine("Enter your input: ")
         dim input = Console.ReadLine()
         Console.WriteLine("You entered: " & input)
+
+        for i as integer = 0 to 10
+            Console.WriteLine(i)
+        next
     End Sub
 End Module
