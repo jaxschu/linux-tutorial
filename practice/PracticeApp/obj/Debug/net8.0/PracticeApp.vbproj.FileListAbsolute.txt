@@ -1,0 +1,15 @@
+/home/jas/文档/gitrepo/linux-tutorial/practice/PracticeApp/obj/Debug/net8.0/PracticeApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/jas/文档/gitrepo/linux-tutorial/practice/PracticeApp/obj/Debug/net8.0/PracticeApp.AssemblyInfoInputs.cache
+/home/jas/文档/gitrepo/linux-tutorial/practice/PracticeApp/obj/Debug/net8.0/PracticeApp.AssemblyInfo.vb
+/home/jas/文档/gitrepo/linux-tutorial/practice/PracticeApp/obj/Debug/net8.0/PracticeApp.vbproj.CoreCompileInputs.cache
+/home/jas/文档/gitrepo/linux-tutorial/practice/PracticeApp/obj/Debug/net8.0/PracticeApp.sourcelink.json
+/home/jas/文档/gitrepo/linux-tutorial/practice/PracticeApp/bin/Debug/net8.0/PracticeApp
+/home/jas/文档/gitrepo/linux-tutorial/practice/PracticeApp/bin/Debug/net8.0/PracticeApp.deps.json
+/home/jas/文档/gitrepo/linux-tutorial/practice/PracticeApp/bin/Debug/net8.0/PracticeApp.runtimeconfig.json
+/home/jas/文档/gitrepo/linux-tutorial/practice/PracticeApp/bin/Debug/net8.0/PracticeApp.dll
+/home/jas/文档/gitrepo/linux-tutorial/practice/PracticeApp/bin/Debug/net8.0/PracticeApp.pdb
+/home/jas/文档/gitrepo/linux-tutorial/practice/PracticeApp/obj/Debug/net8.0/PracticeApp.dll
+/home/jas/文档/gitrepo/linux-tutorial/practice/PracticeApp/obj/Debug/net8.0/refint/PracticeApp.dll
+/home/jas/文档/gitrepo/linux-tutorial/practice/PracticeApp/obj/Debug/net8.0/PracticeApp.pdb
+/home/jas/文档/gitrepo/linux-tutorial/practice/PracticeApp/obj/Debug/net8.0/PracticeApp.genruntimeconfig.cache
+/home/jas/文档/gitrepo/linux-tutorial/practice/PracticeApp/obj/Debug/net8.0/ref/PracticeApp.dll
