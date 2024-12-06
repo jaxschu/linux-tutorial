@@ -14,5 +14,9 @@ Module Program
         for i as integer = 0 to 10
             Console.WriteLine(i)
         next
+
+        for m as integer = 10 to 100 step 10
+            Console.WriteLine(m)
+        next
     End Sub
 End Module
