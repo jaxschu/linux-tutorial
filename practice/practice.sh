@@ -14,6 +14,19 @@ function File {
     echo ${my_array[2]}
     echo ${my_array[@]}
     echo "B=$B"
+    names=(Jason, Joe, John, Jack)
+    for name in ${names[@]}; do
+        echo "Hello $name"
+    done
+    echo "Number of names is ${#names[@]}"
+    echo ${names[0]}
+    echo ${names[@]}
+
+    count=5
+    while [ $count -gt 0 ]; do
+        echo "count is $count"
+        ((count--))
+    done
     echo "Number of arguments is $#"
 }
 
