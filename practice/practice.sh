@@ -21,6 +21,11 @@ diff sorted_file1 sorted_file2
 # Print message and write to file
 echo "Hello, world!" | tee /tmp/hello.txt
 
+setAge() {
+    local age=20
+    echo "Local Age is $age"
+}
+
 # Function definition
 function File {
     filename="sample.md"
@@ -88,11 +93,6 @@ function File {
     done
 
     echo "Number of arguments is $#"
-
-    # Infinite loop with delay
-    while true; do
-        sleep 0.1
-    done
 }
 
 # Main script logic
