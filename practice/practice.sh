@@ -72,6 +72,10 @@ function File {
     echo ${my_array[@]}
     echo "B=$B"
 
+    :'this is
+    a multi line
+    comment'
+
     # Names array and loop
     names=(Jason, Joe, John, Jack)
     for name in ${names[@]}; do
@@ -101,3 +105,5 @@ if [ $# -eq 2 ]; then
     echo "File $*"
     exit 0
 fi
+
+sleep 5
