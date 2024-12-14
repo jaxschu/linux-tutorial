@@ -30,6 +30,18 @@ setAge() {
 function File {
     filename="sample.md"
 
+    let num1=1
+    let num2=2
+
+    echo "num1 is $num1"
+    echo "num2 is $num2"
+
+    declare -a array1
+    declare -A array2
+
+    array1=(apple banana orange)
+    array2=([apple]=1 [banana]=2 [orange]=3)
+
     # Check if file exists
     if [ -e $filename ]; then
         echo "File exists"
